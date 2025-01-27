@@ -1,6 +1,6 @@
 """
     Name: Patricia J. Gariando 
-    Student Number: 991 446 494
+    Student Number: 000 000 000
     Task: Assignment 3
     Date: Nov. 19 2023 
 """
@@ -163,4 +163,4 @@ def main():
 
 if __name__ == "__main__": main() # call the main function 
 
-print("\nPatricia J. Gariando: 991 446 494\n") # display name and student ID
+print("\nPatricia J. Gariando: 000 000 000\n") # display name and student ID
