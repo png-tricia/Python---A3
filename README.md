@@ -1,7 +1,6 @@
 ## PROG12583 Programming Foundations - Python: Assignment 3
 Program: **Computer Programming @ Sheridan College** <br>
 Note: The following assignment was completed during Semester 1 (2023) <br>
-Language(s): Python
 
 ## The Task:
 Create a program that calculates the employees wages. 
